@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Sarath079
-- 👀 I’m interested in data analysis
-- 🌱 I’m currently pursuing Ms in Applied data analytics
+- 👀 I’m interested in data analysis and data-driven decision making.
+- 🌱 Completed Ms in Applied data analytics.
+-     actively looking for data analyst job opportunity.
 - 📫 email: ravisa@udmercy.edu
 
 <!---
