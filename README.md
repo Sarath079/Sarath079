@@ -11,10 +11,11 @@
 
   💡Skills💡:
 
--- Microsoft SQL Server  
--- Tableau  
--- Microsoft Excel  
--- Google Sheets  
+-- GCP (Google Cloud Platform)              -- Azure data studio
+-- Tableau                                  -- Microsoft Excel  
+-- Google Sheets                            -- BigQuery
+-- R Studio                                 -- Microsoft SQL Server 
+ 
  
  📚Courses and Certifications📚
 
