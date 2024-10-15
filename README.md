@@ -22,7 +22,7 @@
  
  👩‍💻Projects using SQL👩‍💻
 
--- Database Management Systems course works: click [Here]([https://github.com/Sarath079/SQL_Queries_Repository/commit/825d8507a80590978ac592658875d381665df8cf](https://github.com/Sarath079/SQL_Queries_Repository/tree/main/DatabaseManagement_using_AzureDataStudio))  
+-- Database Management Systems course works: click [Here](https://github.com/Sarath079/SQL_Queries_Repository/tree/main/DatabaseManagement_using_AzureDataStudio)  
 -- Google Data Analytics works: Click [Here](https://github.com/Sarath079/SQL_Queries_Repository/commit/adc36d6f70dc8d7f7e155e5aceeb9e24e0dcb133)  
 
 👩‍💻Projects using Python👩‍💻
