@@ -7,7 +7,8 @@
 -- 🌱 Completed Masters in Applied data analytics.  
 -- 📉 actively looking for data analyst job opportunity.  
 -- 📫 email: ravisa@udmercy.edu  
--- [LinkedIn](http://www.linkedin.com/in/sarath-ravi-73056315a)
+-- [LinkedIn](http://www.linkedin.com/in/sarath-ravi-73056315a).
+
 -- [Portfolio](https://sites.google.com/view/sarathravi/home?authuser=0)
 
   💡Skills💡:
